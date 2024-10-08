@@ -69,12 +69,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-- Email : wick@wick-studio.com
-
-- Website : https://wickdev.xyz
-
-- Discord : https://discord.gg/wicks
-
-- Youtube : https://www.youtube.com/@wick_studio
